@@ -4,4 +4,5 @@ function sum(){
 let total =x+y;
 return total;
 }
-console.log(sum());
+console.log(sum())
+print();
